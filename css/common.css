@@ -71,7 +71,7 @@ a{
   color: #333;
   background-color: #fff;
 }
-/* 
+
 .back-to-position{
   opacity: 0;
   transition: 1s;
@@ -86,7 +86,7 @@ a{
 .show .back-to-position{
   opacity: 1;
   transform: translateX(0);
-} */
+} 
 
 /* header */
 header {
